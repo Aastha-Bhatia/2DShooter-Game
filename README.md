@@ -10,7 +10,7 @@ This is a fast-paced 2D space shooter built using Unity. Navigate your spaceship
 🎮 Three stages (with the same integrated level for now).  
 
 ## Play Online  
-🔗 **[2D Space Shooter on Itch.io]([Your_Itch.io_Link_Here](https://aasthabhatia.itch.io/2dshooter))**  
+🔗 **[2D Space Shooter on Itch.io][[Your_Itch.io_Link_Here](https://aasthabhatia.itch.io/2dshooter)]**  
 
 ## Download  
 This project is available for download on the following platforms:  
